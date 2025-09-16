@@ -1,0 +1,14 @@
+
+.venv/
+
+
+.idea/
+
+
+__pycache__/
+
+
+!.gitignore
+!my_memo_app/
+!Procfile
+!requirements.txt
