@@ -7,6 +7,6 @@ __pycache__/
 
 
 !.gitignore
-!my_memo_app/
+!my_memo_app/**
 !Procfile
 !requirements.txt
